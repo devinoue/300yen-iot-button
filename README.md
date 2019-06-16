@@ -4,7 +4,6 @@
 
 # 事前に必要なもののインストール
 ```bash
-sudo apt-get install python3-pip
 sudo pip3 install evdev
 ```
 
